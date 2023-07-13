@@ -43,14 +43,6 @@ The project plots the accuracy and loss curves during training using Matplotlib.
 
 After training, the model is evaluated on the test set, and the test accuracy is displayed in the terminal.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and adapt the code according to your needs.
-
-If you have any questions or suggestions, please feel free to contact me.
-
 **Author:** Sajad Waloo
 **Email:** sajadwaloo786@gmail.com
 
